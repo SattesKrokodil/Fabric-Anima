@@ -1,5 +1,6 @@
 ## UNRELEASED
 ### General Updates
++ artifacts are a little more rare now
 + Balanced Dehydration
 + Fox can eat everything now (SORRY :P )
 
