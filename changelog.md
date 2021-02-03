@@ -14,7 +14,7 @@
 + new biomes and mobs (explore dangerous desolated areas and meet its inhabitants)
 + artifacts are a little more rare now
 + Balanced Dehydration
-
++ added recipe for ghast tear
 + discord integration (and window title changer), show your friends that you play anima
 
 ### Fixes
