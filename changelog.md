@@ -1,7 +1,6 @@
 ## UNRELEASED
 ### Souls 
 + NEW SOULS: Scuttler, Ash Scuttler
-+ spiders won't be attacked by spiders
 + Fox can eat everything now (SORRY :P)
 
 ### General Updates
