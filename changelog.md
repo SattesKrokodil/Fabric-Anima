@@ -1,6 +1,6 @@
 ## UNRELEASED
 ### General Updates
-+ NEW SOULS: Scuttler, Ash Scuttler, Toad
++ NEW SOULS: Scuttler, Ash Scuttler
 + better inventory sorting
 + keep your gear + curios + item hotbar on death (you only lose your main inventory when you die)
 + use the curios system to wear cosmetic armor!
