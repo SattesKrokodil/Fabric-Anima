@@ -16,6 +16,7 @@
 + balanced Dehydration
 + added recipe for ghast tear
 + discord integration (and window title changer), show your friends that you play anima
++ added Official Server to default Multiplayer
 
 ### Fixes
 + removed "identity menu" keybind - not usable anyways and crashes the game due to a modconflict
