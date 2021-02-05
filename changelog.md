@@ -4,15 +4,16 @@
 + Fox can eat everything now (SORRY :P)
 
 ### General Updates
++ added all custom recipes to REI favourites
 + added crafting recipe for cobwebs
 + better inventory sorting
-+ keep your gear + curios + item hotbar on death (you only lose your main inventory when you die)
++ keep your gear + curios + item hotbar on death (you only lose your main inventory when you die) - trinket slots will be lost too!
 + use the curios system to wear cosmetic armor!
 + added fertilizers and watercans (going full animal crossing!)
 + ~ 15 new armor sets
 + new biomes and mobs (explore dangerous desolated areas and meet its inhabitants)
 + artifacts are a little more rare now
-+ Balanced Dehydration
++ balanced Dehydration
 + added recipe for ghast tear
 + discord integration (and window title changer), show your friends that you play anima
 
