@@ -1,4 +1,7 @@
 ## UNRELEASED
+
+
+## [1.2.0] - Scuttlers! - 05.02.2020 
 ### Souls 
 + NEW SOULS: Scuttler, Ash Scuttler
 + Fox can eat everything now (SORRY :P)
