@@ -1,7 +1,7 @@
 ## UNRELEASED
 +
 
-## [1.2.1] 7days
+## [1.2.1] - Hotfixes - 08.02.2021
 ### General Updates
 + small fixes and a new vanilla-like storage system
 
