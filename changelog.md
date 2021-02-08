@@ -3,7 +3,7 @@
 
 ## [1.2.1] - Hotfixes - 08.02.2021
 ### General Updates
-+ small fixes and a new vanilla-like storage system
++ small fixes 
 
 ### Fixes
 + trinket "jumping"
@@ -13,7 +13,6 @@
 
 ### Mods
 ADDED:
-+ tomsstorage (testing, might break stuff)
 + polymorph 
 
 UPDATED:
