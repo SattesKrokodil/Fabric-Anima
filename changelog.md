@@ -10,10 +10,12 @@
 + identity message popping up everytime you transform
 + recipe conflicts
 + some sn-crops not dropping materials
++ FLAN claim issue
 
 ### Mods
 ADDED:
 + polymorph 
++ Door(s) coupling
 
 UPDATED:
 + identity
