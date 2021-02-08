@@ -1,6 +1,28 @@
 ## UNRELEASED
 +
 
+## [1.2.1] 7days
+### General Updates
++ small fixes and a new vanilla-like storage system
+
+### Fixes
++ trinket "jumping"
++ identity message popping up everytime you transform
++ recipe conflicts
++ some sn-crops not dropping materials
+
+### Mods
+ADDED:
++ tomsstorage (testing, might break stuff)
++ polymorph 
+
+UPDATED:
++ identity
++ supernatural crops
+
+REMOVED:
++ backslots - as cool at it is, trinket incopatibility  
+
 ## [1.2.0] - Chitin - 05.02.2020 
 ### Souls 
 + NEW SOULS: Scuttler, Ash Scuttler
