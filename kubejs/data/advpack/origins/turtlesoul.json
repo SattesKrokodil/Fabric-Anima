@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"advpack:transform_turtle",
+		"origins:vegetarian",
+		"origins-classes:quality_equipment",
+		"origins-classes:more_stone_break_speed",
+		"origins-classes:no_mining_exhaustion",
+		"origins:fall_immunity",
+		"origins:natural_armor",
+		"advpack:transform_back_on_change"
+	],
+	"icon": "minecraft:seagrass",
+	"order": 1,
+	"impact": 1,
+	"name": "Turtle Soul",
+	"description": "“The turtle moves.”"
+}

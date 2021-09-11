@@ -1,0 +1,19 @@
+{
+  "type": "origins:self_action_when_hit",
+  "entity_action": {
+    "type": "origins:execute_command",
+    
+   		"type": "origins:execute_command",
+    		"command": "/execute at @p run setblock ~ ~ ~ fire",
+    		"permission_level": 4
+    
+    },
+  "damage_condition": {
+    "type": "origins:amount",
+    "comparison": ">=",
+    "compare_to": 2.0
+  },
+  "cooldown": 1200,
+  "name": "Firespreader",
+  "description": "Your stomach is filled with flamable gasses."
+}

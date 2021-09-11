@@ -1,0 +1,31 @@
+{
+
+	"powers": [
+
+		"advpack:transform_bat",
+
+		"origins:carnivore",
+
+		"origins-classes:more_animal_loot",
+
+		"origins-classes:no_projectile_divergence",
+
+		"origins-classes:less_bow_slowdown",
+
+		"origins:burn_in_daylight",
+
+		"advpack:transform_back_on_change"
+
+	],
+
+	"icon": "winged:bat_wing",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Bat Soul",
+
+	"description": "'I thought you could turn into a bat?' - 'Yeah, but a very nervous one!'"
+
+}

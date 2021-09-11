@@ -1,0 +1,31 @@
+{
+
+	"powers": [
+
+		"advpack:transform_bee",
+
+		"origins:vegetarian",
+
+		"origins-classes:better_bone_meal",
+
+		"origins-classes:more_crop_drops",
+
+		"origins:more_exhaustion",
+
+		"origins:water_vulnerability",
+
+		"advpack:transform_back_on_change"
+
+	],
+
+	"icon": "minecraft:honeycomb",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Bee Soul",
+
+	"description": "That which is not good for the bee-hive cannot be good for the bees."
+
+}

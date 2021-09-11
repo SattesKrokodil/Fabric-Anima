@@ -1,0 +1,101 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -121
+  width = 115
+  actionid = 2e75fb13-f224-4fa5-b3de-c5c6092589be1631366146191
+  action = addbutton
+  y = -68
+  label = Report a Bug/Exploit
+  value = https://github.com/SattesKrokodil/Fabric-Anima/issues
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -121
+  width = 115
+  actionid = e79de420-41cb-4d59-83d0-e20d2d00520f1631366146191
+  action = addbutton
+  y = -160
+  label = Rent a Server!
+  value = https://bisecthosting.com/adventurepack
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -121
+  width = 115
+  actionid = 4e703e43-536e-4108-a434-c95bb0f6adc51631366146192
+  action = addbutton
+  y = -137
+  label = Discord
+  value = https://discord.gg/w6S5Bnf37y
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = sendmessage
+  x = -34
+  width = 30
+  actionid = 3ec5a495-1edf-4e90-a268-3a2e3c4d61a31631366146192
+  action = addbutton
+  y = 65
+  label = AFK
+  value = I'm afk for a while.
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = sendmessage
+  x = 4
+  width = 28
+  actionid = c92e5af4-e9a6-4204-981a-4d8e1f6d1a6e1631366146192
+  action = addbutton
+  y = 65
+  label = RE
+  value = I'm back.
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -121
+  width = 115
+  actionid = 9d5f39e5-0dda-42ad-a04e-ebd99f0825de1631366146192
+  action = addbutton
+  y = -91
+  label = Patreon
+  value = https://www.patreon.com/sattes
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -121
+  width = 115
+  actionid = 3e5d877a-9d6c-4c7c-9f91-f6b06f82ee9b1631366146192
+  action = addbutton
+  y = -114
+  label = Changelog
+  value = https://github.com/SattesKrokodil/Fabric-Anima/blob/main/changelog.md
+  height = 20
+}
+

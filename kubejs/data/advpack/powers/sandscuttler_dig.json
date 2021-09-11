@@ -1,0 +1,14 @@
+{
+  "type": "origins:phasing",
+  "blacklist": false,
+  "render_type": "blindness",
+  "view_distance": 10.0,
+  "block_condition": {
+    "type": "origins:block",
+    "block": "minecraft:sand"
+  },
+  "name": "Sandspurt",
+  "description": "Move through sand as if it was air."
+}
+
+

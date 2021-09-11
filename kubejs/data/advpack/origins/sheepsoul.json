@@ -1,0 +1,29 @@
+{
+
+	"powers": [
+
+		"advpack:transform_sheep",
+
+		"origins-classes:better_crafted_food",
+
+		"origins-classes:twin_breeding",
+
+		"origins-classes:rare_wandering_loot",
+
+		"origins-classes:trade_availability",
+
+		"origins:vegetarian"
+
+	],
+
+	"icon": "minecraft:sheep_spawn_egg",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Sheep Soul",
+
+	"description": "'A sheep, that could afford to employ wolves.'"
+
+}

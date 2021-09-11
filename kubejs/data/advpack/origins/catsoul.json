@@ -1,0 +1,37 @@
+{
+
+	"powers": [
+
+		"advpack:transform_cat",
+
+		"origins-classes:more_attack_damage",
+
+		"origins:carnivore",
+
+		"origins-classes:sneaky",
+
+		"origins-classes:stealth",
+
+		"origins-classes:stealth_descriptor",
+
+		"origins-classes:no_sprint_exhaustion",
+
+		"origins:more_exhaustion",
+
+		"origins:nine_lives",
+
+		"advpack:transform_back_on_change"
+
+	],
+
+	"icon": "mcda:ocelot_armor_helmet",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Cat Soul",
+
+	"description": "If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember."
+
+}

@@ -1,0 +1,18 @@
+{
+  "loading_priority": 1337,
+  "replace": true,
+  "origins": [
+		"advpack:turtlesoul",
+			"advpack:sheepsoul",
+				"advpack:batsoul",
+					"advpack:catsoul",
+						"advpack:foxsoul",
+							"advpack:beesoul",
+								"advpack:codsoul",
+									"advpack:spidersoul",
+										"advpack:ashscuttlersoul",
+											"advpack:sandscuttlersoul"
+  ],
+  "order": 0,
+  "enabled": true
+}

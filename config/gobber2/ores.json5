@@ -1,0 +1,44 @@
+{
+	/* 
+	   
+	   ***********************
+	   Gobber Ore
+	   ***********************
+	*/
+	"gobberEnable": true,
+	"gobberVeinSize": 4,
+	"gobberMaxLevel": 30,
+	"gobberPerChunk": 20,
+	/* 
+	   
+	   ***********************
+	   Nether Gobber Ore
+	   ***********************
+	*/
+	"netherGobberEnable": true,
+	"netherGobberVeinSize": 9,
+	"netherGobberMaxLevel": 120,
+	"netherGobberPerChunk": 25,
+	/* 
+	   
+	   ***********************
+	   End Gobber Ore
+	   ***********************
+	*/
+	"endGobberEnable": true,
+	"endGobberVeinSize": 9,
+	"endGobberMaxLevel": 180,
+	"endGobberPerChunk": 25,
+	/* 
+	   
+	   ***********************
+	   Lucky Block
+	   ***********************
+	*/
+	"luckyEnable": true,
+	"luckyVeinSize": 4,
+	"luckyMaxLevel": 120,
+	"luckyPerChunk": 15,
+	"enableExtraLoot": false,
+	"enableFortune": false
+}

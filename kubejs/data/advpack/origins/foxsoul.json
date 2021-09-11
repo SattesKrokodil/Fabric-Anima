@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"advpack:transform_fox",
+		"advpack:fox_speed_boost",
+		"advpack:fox_jump",
+		"origins-classes:more_animal_loot",
+		"advpack:transform_back_on_change"
+
+	],
+	"icon": "mcda:fox_armor_helmet",
+	"order": 0,
+	"impact": 1,
+	"name": "Fox Soul",
+	"description": "A fox can be smarter than a wolf."
+}

@@ -1,0 +1,191 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = cool_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  path = config/fancymenu/customization/ffffffffff.wav
+  loop = true
+  action = addaudio
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 6
+  actionid = 9ed9b5dd-eb79-4e83-99a9-11f8b8a40da61626246866838
+  action = addtext
+  y = -16
+  scale = 1.0
+  alignment = left
+  value = Anima 2.0.0 for Minecraft 1.17.1
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = openlink
+  x = -111
+  width = 75
+  actionid = 03f87766-2918-4d84-a6ae-0ba501f8a6601631368733133
+  action = addbutton
+  y = 62
+  label = Discord
+  value = https://discord.gg/ghR4wh74Rc
+  height = 20
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -49
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 71
+}
+
+customization {
+  identifier = %id=400394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = -33
+  action = movebutton
+  y = 102
+}
+
+customization {
+  identifier = %id=502394%
+  width = 67
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = openlink
+  x = -111
+  width = 75
+  actionid = 29edb65b-aca3-4217-bd5e-b40d68a062ba1631368733135
+  action = addbutton
+  y = 110
+  label = Changelog
+  value = https://github.com/SattesKrokodil/Fabric-Anima/blob/main/changelog.md
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = joinserver
+  x = -53
+  width = 110
+  actionid = 71472f03-0d4f-4768-907f-18ae81acac2f1631368733136
+  action = addbutton
+  y = -81
+  label = Official Server
+  value = 135.125.213.151:25565
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -100
+  width = 200
+  actionid = 4c9189c7-f028-441f-a2fe-b0105ff1a2f41631368733136
+  action = addbutton
+  y = 47
+  label = Rent a Server!
+  value = https://bisecthosting.com/adventurepack
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  buttonaction = openlink
+  x = -111
+  width = 75
+  actionid = 2f8ff93f-d421-4851-8cc3-de3661e6fa9d1631368733136
+  action = addbutton
+  y = 86
+  label = Patreon
+  value = https://www.patreon.com/sattes
+  height = 20
+}
+
+customization {
+  orientation = mid-right
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  x = -73
+  actionid = fdd964bf-e611-40f7-be6f-677d9f8db3971631365345289
+  action = addsplash
+  y = 48
+  scale = 1.0
+  refresh = false
+  text = 2.0.0!
+  bouncing = true
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -1
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttonlabel
+  value = Minecraft Realms
+}
+

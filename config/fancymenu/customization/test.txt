@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_3928
+  renderorder = foreground
+}
+
+customization {
+  orientation = bottom-centered
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = config\fancymenu\customization\splash.txt
+  rotation = 0.0
+  x = -40
+  actionid = 7a67c1b6-d044-46bc-8f26-a0d9ee16a7111626352089042
+  action = addsplash
+  y = -50
+  scale = 1.5
+  refresh = true
+  bouncing = false
+}
+

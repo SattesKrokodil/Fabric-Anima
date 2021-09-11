@@ -1,0 +1,28 @@
+{
+
+	"powers": [
+
+		"advpack:transform_sandscuttler",
+		"advpack:chitin_tank",
+		"advpack:transform_back_on_change",
+		"origins:carnivore",
+		"advpack:sandscuttler_dig",
+		"advpack:sandscuttler_sanddrop",
+		"origins-classes:longer_potions",
+		"advpack:sandscuttler_poison",
+		"advpack:sandscuttler_blind_poison",
+		"advpack:sandscuttler_sanddrop"
+
+	],
+
+	"icon": "biomemakeover:scuttler_tail",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Sand Scuttler Soul",
+
+	"description": "You can't fight the desert. You have to ride with it."
+
+}

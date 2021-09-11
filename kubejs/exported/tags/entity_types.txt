@@ -1,0 +1,173 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 10, 2021, 8:09:26 PM
+
+#identity:undrownable
+- minecraft:iron_golem
+
+#identity:slow_falling
+- minecraft:chicken
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+
+#dml-refabricated:end_mobs
+- minecraft:enderman
+- minecraft:shulker
+- minecraft:endermite
+
+#waila:blacklist
+- minecraft:experience_orb
+- minecraft:area_effect_cloud
+
+#identity:ravager_riding
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:vindicator
+
+#identity:fox_prey
+- minecraft:chicken
+- minecraft:rabbit
+
+#identity:flying
+- minecraft:ghast
+- minecraft:bat
+- minecraft:blaze
+- minecraft:parrot
+- minecraft:phantom
+- minecraft:bee
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:vex
+
+#dml-refabricated:zombie_mobs
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:husk
+- minecraft:zoglin
+- minecraft:zombified_piglin
+
+#dml-refabricated:illager_mobs
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+
+#dml-refabricated:nether_mobs
+- minecraft:wither_skeleton
+- minecraft:blaze
+- minecraft:ghast
+- minecraft:magma_cube
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:piglin
+- minecraft:zombified_piglin
+
+#identity:lava_walking
+- minecraft:strider
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+
+#identity:piglin_friendly
+- minecraft:piglin
+- minecraft:piglin_brute
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#identity:burns_in_daylight
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:phantom
+
+#dml-refabricated:skeleton_mobs
+- minecraft:skeleton
+- minecraft:wither_skeleton
+- minecraft:stray
+
+#dml-refabricated:ocean_mobs
+- minecraft:guardian
+- minecraft:drowned
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#dml-refabricated:overworld_mobs
+- minecraft:creeper
+- minecraft:enderman
+- minecraft:skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:witch
+- minecraft:spider
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+
+#identity:wolf_prey
+- minecraft:sheep
+- minecraft:fox
+- minecraft:skeleton
+
+#dml-refabricated:slimy_mobs
+- minecraft:slime
+- minecraft:magma_cube
+
+#identity:hurt_by_high_temperature
+- minecraft:snow_golem
+
+#identity:cant_swim
+- minecraft:iron_golem
+
+#dml-refabricated:ghost_mobs
+- minecraft:ghast
+- minecraft:phantom
+- minecraft:vex
