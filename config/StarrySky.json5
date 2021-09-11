@@ -92,7 +92,7 @@
 	   When set to  0 there will be no ground, only void
 	   Default: 3 (2 layers water, 1 layer bedrock)
 	*/
-	"floorHeightOverworld": 3,
+	"floorHeightOverworld": 0,
 	/* 
 	   The block generating at y>1 (if floorHeight > 1)
 	   Default: WATER
@@ -110,7 +110,7 @@
 	   When set to  0 there will be no ground, only void
 	   Default: 3 (2 layers water, 1 layer bedrock)
 	*/
-	"floorHeightNether": 3,
+	"floorHeightNether": 0,
 	/* 
 	   The block generating at y>1 (if floorHeight > 1)
 	   Default: LAVA

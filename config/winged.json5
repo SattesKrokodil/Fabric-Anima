@@ -1,61 +1,61 @@
 {
 	"removeWingsDamage": 12.0,
 	"keepWingsAfterDeath": true,
-	"wingRemovalBrokenCore": true,
+	"wingRemovalBrokenCore": false,
 	"lootTables": {
 		"abandonedMineshaft": {
 			"core": {
 				"generate": true,
 				"broken": true,
-				"chance": 0.10000000149011612
+				"chance": 0.010000000149011612
 			},
 			"shard": {
 				"generate": true,
-				"chance": 0.20000000298023224
+				"chance": 0.020000000298023224
 			}
 		},
 		"buriedTreasure": {
 			"core": {
 				"generate": true,
 				"broken": true,
-				"chance": 0.10000000149011612
+				"chance": 0.010000000149011612
 			},
 			"shard": {
 				"generate": true,
-				"chance": 0.20000000298023224
+				"chance": 0.020000000298023224
 			}
 		},
 		"simpleDungeon": {
 			"core": {
 				"generate": true,
 				"broken": true,
-				"chance": 0.10000000149011612
+				"chance": 0.010000000149011612
 			},
 			"shard": {
 				"generate": true,
-				"chance": 0.20000000298023224
+				"chance": 0.020000000298023224
 			}
 		},
 		"woodlandMansion": {
 			"core": {
 				"generate": true,
 				"broken": true,
-				"chance": 0.10000000149011612
+				"chance": 0.010000000149011612
 			},
 			"shard": {
 				"generate": true,
-				"chance": 0.20000000298023224
+				"chance": 0.020000000298023224
 			}
 		},
 		"endCityTreasure": {
 			"core": {
 				"generate": true,
 				"broken": false,
-				"chance": 0.10000000149011612
+				"chance": 0.010000000149011612
 			},
 			"shard": {
 				"generate": true,
-				"chance": 0.30000001192092896
+				"chance": 0.030000001192092896
 			}
 		},
 		"blackFeather": {
@@ -107,6 +107,6 @@
 			"creativeFlightChance": 0.004999999888241291,
 			"lootingMultiplier": 0.004999999888241291
 		},
-		"enderdragonDropsHeartOfTheSky": true
+		"enderdragonDropsHeartOfTheSky": false
 	}
 }

@@ -3,7 +3,7 @@
     "sealOceanSettings": {
       "weight": 5,
       "minGroupSize": 1,
-      "maxGroupSize": 4
+      "maxGroupSize": 2
     },
     "sealRiverSettings": {
       "weight": 5,

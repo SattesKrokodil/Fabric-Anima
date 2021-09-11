@@ -5,7 +5,7 @@
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = true
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = true
+"Atlases Enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = true
 #Unlocks all vanilla recipes.
@@ -29,7 +29,7 @@
 #Bookshelves that can hold up to 9 stacks of books and maps.
 "Bookcases Enabled" = true
 #Bumblezone integration.
-"Bumblezone Enabled" = true
+"Bumblezone Enabled" = false
 #Scroll the mouse while hovering over a bundle to change the order of its contents.
 "BundleSorting Enabled" = true
 #Campfires no longer damage mobs.

@@ -2,11 +2,11 @@
   "generate_in_villages": true,
   "consume_infinite_knowledge_scroll_on_use": false,
   "can_owners_redeem_payments": false,
-  "cost_amount": 1,
+  "cost_amount": 3,
   "cost_type": "level",
   "cost_item": "minecraft:ender_pearl",
-  "waystone_block_hardness": 4,
-  "waystone_block_required_mining_level": 1.0,
+  "waystone_block_hardness": 100,
+  "waystone_block_required_mining_level": 10.0,
   "recipes": {
     "abyss_watcher": {
       "type": "minecraft:crafting_shaped",
