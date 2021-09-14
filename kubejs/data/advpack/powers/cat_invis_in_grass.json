@@ -1,0 +1,29 @@
+{
+  "type": "origins:invisibility",
+  "render_armor": false,
+  "condition": {
+
+    "condition": {
+      "type": "origins:in_block",
+      "block_condition": {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:in_tag",
+            "tag": "advpack:grass_types"
+          },
+          {
+            "type": "origins:offset",
+            "y": 1,
+            "condition": {
+              "type": "origins:in_tag",
+              "tag": "advpack:grass_types"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+

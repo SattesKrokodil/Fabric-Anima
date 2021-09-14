@@ -1,0 +1,33 @@
+{
+
+	"powers": [
+
+		"advpack:transformation_powers/transform_goat",
+
+		"origins:vegetarian",
+
+		"advpack:transformation_powers/transform_back_on_change",
+
+		"advpack:actives/goat_climbing",
+
+		"advpack:goat_knockback",
+
+		"advpack:goat_immune_falldmg",
+
+		"advpack:goat_jump"
+
+
+
+	],
+
+	"icon": "mcda:goat_gear_helmet",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Goat Soul",
+
+	"description": "Maybe the Greatest Of All Time."
+
+}

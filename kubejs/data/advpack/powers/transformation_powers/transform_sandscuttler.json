@@ -8,15 +8,15 @@
         "type": "origins:and",
         "conditions": [
           {
-            "type": "origins:block",
-            "block": "minecraft:air"
+            "type": "origins:in_tag",
+            "tag": "advpack:air_types_for_transform"
           },
           {
             "type": "origins:offset",
             "y": -1,
             "condition": {
-              "type": "origins:block",
-              "block": "minecraft:air"
+            "type": "origins:in_tag",
+            "tag": "advpack:air_types_for_transform"
             }
           }
         ]
@@ -24,7 +24,7 @@
     },
     "if_action": {
       "type": "origins:execute_command",
-      "command": "/identity equip @p minecraft:fox",
+      "command": "/identity equip @p biomemakeover:scuttler",
       "permission_level": 4
     },
     "else_action": {

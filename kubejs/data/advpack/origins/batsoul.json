@@ -2,9 +2,7 @@
 
 	"powers": [
 
-		"advpack:transform_bat",
-
-		"origins:carnivore",
+		"advpack:transformation_powers/transform_bat",
 
 		"origins-classes:more_animal_loot",
 
@@ -14,7 +12,7 @@
 
 		"origins:burn_in_daylight",
 
-		"advpack:transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change"
 
 	],
 
@@ -22,7 +20,7 @@
 
 	"order": 0,
 
-	"impact": 1,
+	"impact": 3,
 
 	"name": "Bat Soul",
 

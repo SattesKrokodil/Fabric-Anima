@@ -1,0 +1,18 @@
+{
+  "type": "origins:modify_jump",
+
+  "modifier": {
+
+    "name": "Bonus jump force",
+
+    "value": 0.6,
+
+    "operation": "multiply_base"
+
+  },
+
+  "name": "High Jumps",
+
+  "description": "Jump height is permanently increased, you take no fall damage."
+
+}

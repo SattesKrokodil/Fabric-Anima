@@ -1,17 +1,17 @@
 {
 	"powers": [
-		"advpack:transform_cod",
+		"advpack:transformation_powers/transform_cod",
 		"origins:carnivore",
 		"origins:more_exhaustion",
 		"origins:aqua_affinity",
 		"origins:like_water",
 		"origins:water_vision",
 		"origins-classes:more_animal_loot",
-		"advpack:transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change"
 	],
 	"icon": "minecraft:cod",
 	"order": 0,
-	"impact": 1,
+	"impact": 2,
 	"name": "Cod Soul",
 	"description": "The best way to observe a fish is to become a fish."
 }

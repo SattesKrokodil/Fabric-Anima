@@ -2,9 +2,7 @@
 
 	"powers": [
 
-		"advpack:transform_bee",
-
-		"origins:vegetarian",
+		"advpack:transformation_powers/transform_bee",
 
 		"origins-classes:better_bone_meal",
 
@@ -14,13 +12,13 @@
 
 		"origins:water_vulnerability",
 
-		"advpack:transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change"
 
 	],
 
 	"icon": "minecraft:honeycomb",
 
-	"order": 0,
+	"order": 3,
 
 	"impact": 1,
 

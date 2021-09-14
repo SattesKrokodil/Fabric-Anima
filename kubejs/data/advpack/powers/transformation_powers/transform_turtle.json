@@ -8,15 +8,15 @@
         "type": "origins:and",
         "conditions": [
           {
-            "type": "origins:block",
-            "block": "minecraft:air"
+            "type": "origins:in_tag",
+            "tag": "advpack:air_types_for_transform"
           },
           {
             "type": "origins:offset",
             "y": -1,
             "condition": {
-              "type": "origins:block",
-              "block": "minecraft:air"
+            "type": "origins:in_tag",
+            "tag": "advpack:air_types_for_transform"
             }
           }
         ]

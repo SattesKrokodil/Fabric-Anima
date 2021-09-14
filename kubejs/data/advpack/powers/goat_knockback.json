@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Max health increase",
+    "attribute": "minecraft:generic.attack_knockback",
+    "value": 2,
+    "operation": "addition"
+  },
+  "name": "Bump!",
+  "description": "Your natural way of dealing with things increases your attack knockback permanently."
+}

@@ -1,13 +1,13 @@
 {
 	"powers": [
-		"advpack:transform_turtle",
+		"advpack:transformation_powers/transform_turtle",
 		"origins:vegetarian",
 		"origins-classes:quality_equipment",
 		"origins-classes:more_stone_break_speed",
 		"origins-classes:no_mining_exhaustion",
 		"origins:fall_immunity",
 		"origins:natural_armor",
-		"advpack:transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change"
 	],
 	"icon": "minecraft:seagrass",
 	"order": 1,

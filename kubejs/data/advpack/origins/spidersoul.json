@@ -1,6 +1,6 @@
 {
 	"powers": [
-		"advpack:transform_spider",
+		"advpack:transformation_powers/transform_spider",
 		"origins:carnivore",
 		"origins-classes:better_enchanting",
 		"origins-classes:efficient_repairs",
@@ -8,13 +8,13 @@
 		"origins-classes:tamed_potion_diffusal",
 		"origins:arthropod",
 		"origins:no_cobweb_slowdown",
-		"origins:webbing",
-		"advpack:transform_back_on_change"
+		"origins:master_of_webs",
+		"advpack:transformation_powers/transform_back_on_change"
 
 	],
 	"icon": "mcda:spider_armor_helmet",
 	"order": 0,
-	"impact": 1,
+	"impact": 2,
 	"name": "Spider Soul",
 	"description": "Puppets are free as long as they love their strings."
 }

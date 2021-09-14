@@ -3,3 +3,4 @@ give @s mcdw:staff_battlestaff
 give @s antiqueatlas:empty_antique_atlas
 give @s minecraft:spyglass
 give @s dehydration:leather_flask
+give @s origins:orb_of_origin

@@ -10,8 +10,9 @@
 							"advpack:beesoul",
 								"advpack:codsoul",
 									"advpack:spidersoul",
-										"advpack:ashscuttlersoul",
-											"advpack:sandscuttlersoul"
+										"advpack:stridersoul",
+											"advpack:sandscuttlersoul",
+	  											"advpack:goatsoul"
   ],
   "order": 0,
   "enabled": true

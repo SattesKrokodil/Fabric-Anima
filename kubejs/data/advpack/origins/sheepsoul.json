@@ -2,8 +2,8 @@
 
 	"powers": [
 
-		"advpack:transform_sheep",
-
+		"advpack:transformation_powers/transform_sheep",
+		"advpack:transformation_powers/transform_back_on_change",
 		"origins-classes:better_crafted_food",
 
 		"origins-classes:twin_breeding",

@@ -1,0 +1,28 @@
+{
+
+	"powers": [
+
+		"advpack:transformation_powers/transform_strider",
+		"advpack:strider_infernal",
+		"advpack:strider_leatherskin",
+		"advpack:lava_vision",
+		"advpack:transformation_powers/transform_back_on_change",
+		"origins:fire_immunity",
+		"origins:water_vulnerability",
+		"advpack:strider_firespreader",
+		"advpack:strider_fireattack",
+		"origins:vegetarian"
+
+	],
+
+	"icon": "minecraft:strider_spawn_egg",
+
+	"order": 0,
+
+	"impact": 1,
+
+	"name": "Strider Soul",
+
+	"description": "Build a man a fire, and he will be warm for a day. Set a man on fire, and he will be warm for the rest of his life."
+
+}
