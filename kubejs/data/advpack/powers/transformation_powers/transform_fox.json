@@ -6,36 +6,79 @@
       "type": "origins:in_block",
       "block_condition": {
         "type": "origins:and",
-        "conditions": [
-          {
-            "type": "origins:in_tag",
-            "tag": "advpack:air_types_for_transform"
-          },
+        "conditions": [{
+          "type": "origins:in_tag",
+          "tag": "advpack:air_types_for_transform"
+        },
           {
             "type": "origins:offset",
             "y": -1,
             "condition": {
-            "type": "origins:in_tag",
-            "tag": "advpack:air_types_for_transform"
+              "type": "origins:in_tag",
+              "tag": "advpack:air_types_for_transform"
             }
           }
         ]
       }
     },
     "if_action": {
-      "type": "origins:execute_command",
-      "command": "/identity equip @p minecraft:fox",
-      "permission_level": 4
+      "type": "origins:and",
+      "actions": [{
+        "type": "origins:execute_command",
+        "command": "/identity equip @p minecraft:fox",
+        "permission_level": 4
+      },
+        {
+          "type": "origins:execute_command",
+          "command": "/playsound minecraft:entity.fox.ambient player @p ~ ~ ~ 100 1",
+          "permission_level": 4
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/particle minecraft:wax_on ~ ~ ~ 0.2 0.5 0.2 0.1 30 force",
+          "permission_level": 4
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 4 force",
+          "permission_level": 4
+        }
+      ]
     },
     "else_action": {
-      "type": "origins:execute_command",
-      "command": "/identity unequip @p",
-      "permission_level": 4
+      "type": "origins:and",
+      "actions": [{
+        "type": "origins:execute_command",
+        "command": "/identity unequip @p",
+        "permission_level": 4
+      },
+        {
+          "type": "origins:execute_command",
+          "command": "/playsound minecraft:block.beacon.activate player @p ~ ~ ~ 1 2",
+          "permission_level": 4
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 force",
+          "permission_level": 4
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/particle minecraft:enchant ~ ~ ~ 1 1 1 0.5 25 normal",
+          "permission_level": 4
+        }
+      ]
     }
+
+
   },
-  "cooldown": 20,
+  "cooldown": 60,
+
   "hud_render": {
-    "should_render": false
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/community/huang/resource_bar_02.png",
+    "bar_index": 1
   },
+
   "hidden": true
 }

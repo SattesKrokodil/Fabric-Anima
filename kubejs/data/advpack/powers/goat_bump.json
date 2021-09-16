@@ -2,15 +2,14 @@
 	"type": "origins:target_action_on_hit",
 
 	"entity_action": {
-		"type": "origins:apply_effect",
 
 		"entity_action": {
 			"type": "origins:add_velocity",
-			"y": 2
+			"y": 1.5
 		}
 	},
 
-	"cooldown": 60,
+	"cooldown": 200,
 	"interval": 1,
   	"name": "test",
 	"hidden": true
