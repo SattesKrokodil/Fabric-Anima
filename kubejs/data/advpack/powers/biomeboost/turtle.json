@@ -1,0 +1,66 @@
+{
+  "type": "origins:multiple",
+  "biome_damage_boost": {
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+      "operation": "addition",
+      "value": 2.0
+    },
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*"
+    }
+  },
+  "biome_xp_boost": {
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+      "operation": "multiply_base",
+      "value": 1.3
+    },
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*"
+    }
+  },
+  "biome_blockbreak_speed": {
+    "biome_break_speed_bonus": {
+      "type": "origins:modify_break_speed",
+      "modifier": {
+        "operation": "multiply_base",
+        "value": 1.2
+      }
+    },
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*"
+    }
+  },
+  "condition": {
+    "type": "origins:biome",
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:category",
+          "category": "beach"
+        },
+        {
+          "type": "origins:category",
+          "category": "ocean"
+        },
+        {
+          "type": "origins:category",
+          "category": "swamp"
+        },
+        {
+          "type": "origins:category",
+          "category": "river"
+        }
+      ]
+    }
+  },
+  "name": "Natural Habitat",
+  "description": "Likes to live in: Beach, Ocean, Swamp, River"
+}
+
+
