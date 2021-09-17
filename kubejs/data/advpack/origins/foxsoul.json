@@ -4,7 +4,10 @@
 		"advpack:fox_speed_boost",
 		"advpack:fox_jump",
 		"origins-classes:more_animal_loot",
-		"advpack:transformation_powers/transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/fox",
+
+		"advpack:sounds/fox_gets_damaged"
 
 	],
 	"icon": "mcda:fox_armor_helmet",

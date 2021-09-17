@@ -12,7 +12,11 @@
 
 		"origins-classes:trade_availability",
 
-		"origins:vegetarian"
+		"origins:vegetarian",
+
+		"advpack:transformation_resources/sheep",
+
+		"advpack:sounds/sheep_gets_damaged"
 
 	],
 

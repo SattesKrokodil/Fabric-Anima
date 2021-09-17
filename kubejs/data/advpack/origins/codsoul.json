@@ -7,7 +7,9 @@
 		"origins:like_water",
 		"origins:water_vision",
 		"origins-classes:more_animal_loot",
-		"advpack:transformation_powers/transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/cod",
+		"advpack:sounds/cod_gets_damaged"
 	],
 	"icon": "minecraft:cod",
 	"order": 0,

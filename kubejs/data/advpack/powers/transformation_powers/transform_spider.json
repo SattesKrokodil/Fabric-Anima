@@ -42,6 +42,11 @@
           "type": "origins:execute_command",
           "command": "/particle minecraft:squid_ink ~ ~-0.5 ~ 0.2 0.5 0.2 0.1 30 force",
           "permission_level": 4
+        },
+        {
+          "type": "origins:change_resource",
+          "resource": "advpack:transformation_resources/spider",
+          "change": 1
         }
       ]
     },
@@ -66,6 +71,11 @@
           "type": "origins:execute_command",
           "command": "/particle minecraft:enchant ~ ~ ~ 1 1 1 0.5 25 normal",
           "permission_level": 4
+        },
+        {
+          "type": "origins:change_resource",
+          "resource": "advpack:transformation_resources/spider",
+          "change": -1
         }
       ]
     }

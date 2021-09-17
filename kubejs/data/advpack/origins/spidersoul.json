@@ -9,7 +9,9 @@
 		"origins:arthropod",
 		"origins:no_cobweb_slowdown",
 		"origins:master_of_webs",
-		"advpack:transformation_powers/transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change",
+		"advpack:transformation_resources/spider",
+		"advpack:sounds/spider_gets_damaged"
 
 	],
 	"icon": "mcda:spider_armor_helmet",

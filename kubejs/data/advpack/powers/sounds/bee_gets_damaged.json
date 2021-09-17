@@ -1,0 +1,25 @@
+{
+  "type": "origins:self_action_when_hit",
+  "entity_action": {
+    "type": "origins:if_else",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "advpack:transformation_resources/bee",
+      "comparison": "==",
+      "compare_to": 0
+    },
+    "if_action": {
+      "type": "origins:play_sound",
+      "sound": "minecraft:entity.bee.hurt"
+    },
+    "damage_condition": {
+      "type": "origins:amount",
+      "comparison": ">=",
+      "compare_to": 4.0
+    }
+  },
+  "hidden": true,
+  "cooldown": 20
+}
+
+

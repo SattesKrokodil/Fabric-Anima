@@ -12,7 +12,11 @@
 
 		"origins:burn_in_daylight",
 
-		"advpack:transformation_powers/transform_back_on_change"
+		"advpack:transformation_powers/transform_back_on_change",
+
+		"advpack:transformation_resources/bat",
+
+		"advpack:sounds/bat_gets_damaged"
 
 	],
 

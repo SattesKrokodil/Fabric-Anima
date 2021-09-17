@@ -23,13 +23,13 @@
     }
   },
   "biome_blockbreak_speed": {
-    "biome_break_speed_bonus": {
+
       "type": "origins:modify_break_speed",
       "modifier": {
         "operation": "multiply_base",
         "value": 1.2
-      }
-    },
+      },
+
     "condition": {
       "type": "origins:power_active",
       "power": "*:*"

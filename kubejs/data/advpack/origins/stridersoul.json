@@ -11,7 +11,9 @@
 		"origins:water_vulnerability",
 		"advpack:strider_firespreader",
 		"advpack:strider_fireattack",
-		"origins:vegetarian"
+		"origins:vegetarian",
+		"advpack:transformation_resources/strider",
+		"advpack:sounds/strider_gets_damaged"
 
 	],
 

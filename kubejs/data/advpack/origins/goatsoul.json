@@ -14,7 +14,11 @@
 
 		"advpack:goat_immune_falldmg",
 
-		"advpack:goat_jump"
+		"advpack:goat_jump",
+
+		"advpack:transformation_resources/goat",
+
+		"advpack:sounds/goat_gets_damaged"
 
 
 

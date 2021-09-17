@@ -47,6 +47,11 @@
           "type": "origins:execute_command",
           "command": "/particle minecraft:falling_dripstone_lava ~ ~ ~ 0.3 1 0.3 0.1 5 normal",
           "permission_level": 4
+        },
+        {
+          "type": "origins:change_resource",
+          "resource": "advpack:transformation_resources/strider",
+          "change": 1
         }
       ]
     },
@@ -71,6 +76,11 @@
           "type": "origins:execute_command",
           "command": "/particle minecraft:enchant ~ ~ ~ 1 1 1 0.5 25 normal",
           "permission_level": 4
+        },
+        {
+          "type": "origins:change_resource",
+          "resource": "advpack:transformation_resources/strider",
+          "change": -1
         }
       ]
     }
