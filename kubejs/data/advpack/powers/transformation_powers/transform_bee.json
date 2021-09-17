@@ -35,17 +35,17 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:falling_honey ~ ~ ~ 0.2 1 0.2 5 5 force",
+          "command": "/particle minecraft:falling_honey ~ ~ ~ 0.2 1 0.2 5 5 normal",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 5 force",
+          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 5 normal",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle betterend:amber_sphere ~ ~ ~ 0.1 0.5 0.1 0.1 10 force",
+          "command": "/particle betterend:amber_sphere ~ ~ ~ 0.1 0.5 0.1 0.1 10 normal",
           "permission_level": 4
         },
         {
@@ -74,7 +74,7 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 force",
+          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 normal",
           "permission_level": 4
         },
         {

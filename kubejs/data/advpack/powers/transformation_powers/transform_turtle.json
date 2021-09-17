@@ -35,17 +35,17 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:scrape ~ ~-0.5 ~ 0.4 0.2 0.4 0.4 30 force",
+          "command": "/particle minecraft:scrape ~ ~-0.5 ~ 0.4 0.2 0.4 0.4 30 normal",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:scrape ~ ~-0.5 ~ 0.4 0.2 0.4 0.4 30 force",
+          "command": "/particle minecraft:scrape ~ ~-0.5 ~ 0.4 0.2 0.4 0.4 30 normal",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:poof ~ ~-0.5 ~ 0.3 1 0.3 0.2 5 force",
+          "command": "/particle minecraft:poof ~ ~-0.5 ~ 0.3 1 0.3 0.2 5 normal",
           "permission_level": 4
         },
         {
@@ -74,7 +74,7 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 force",
+          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 normal",
           "permission_level": 4
         },
         {

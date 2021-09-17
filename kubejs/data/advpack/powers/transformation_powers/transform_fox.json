@@ -35,12 +35,12 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:wax_on ~ ~ ~ 0.2 0.5 0.2 0.1 30 force",
+          "command": "/particle minecraft:wax_on ~ ~ ~ 0.2 0.5 0.2 0.1 30 normal",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 4 force",
+          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 4 normal",
           "permission_level": 4
         },
         {
@@ -69,7 +69,7 @@
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 force",
+          "command": "/particle artifality:crystal_sparkle ~ ~ ~ 0.5 1 0.5 0.5 30 normal",
           "permission_level": 4
         },
         {
