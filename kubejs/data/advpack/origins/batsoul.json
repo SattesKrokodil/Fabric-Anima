@@ -3,20 +3,17 @@
 	"powers": [
 
 		"advpack:transformation_powers/transform_bat",
-
 		"origins-classes:more_animal_loot",
-
 		"origins-classes:no_projectile_divergence",
-
 		"origins-classes:less_bow_slowdown",
-
 		"origins:burn_in_daylight",
-
 		"advpack:transformation_powers/transform_back_on_change",
-
 		"advpack:transformation_resources/bat",
-
-		"advpack:sounds/bat_gets_damaged"
+		"advpack:sounds/bat_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
 
 	],
 

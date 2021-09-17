@@ -5,18 +5,16 @@
 		"advpack:transformation_powers/transform_sheep",
 		"advpack:transformation_powers/transform_back_on_change",
 		"origins-classes:better_crafted_food",
-
 		"origins-classes:twin_breeding",
-
 		"origins-classes:rare_wandering_loot",
-
 		"origins-classes:trade_availability",
-
 		"origins:vegetarian",
-
 		"advpack:transformation_resources/sheep",
-
-		"advpack:sounds/sheep_gets_damaged"
+		"advpack:sounds/sheep_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
 
 	],
 

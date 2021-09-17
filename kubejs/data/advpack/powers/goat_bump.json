@@ -3,14 +3,16 @@
 
 	"entity_action": {
 
-		"entity_action": {
-			"type": "origins:add_velocity",
-			"y": 1.5
-		}
+
+
+		"type": "origins:add_velocity",
+		"x": 1,
+		"set": true
+
 	},
 
-	"cooldown": 200,
+	"cooldown": 60,
 	"interval": 1,
-  	"name": "test",
-	"hidden": true
+	"name": "test",
+	"hidden": false
 }

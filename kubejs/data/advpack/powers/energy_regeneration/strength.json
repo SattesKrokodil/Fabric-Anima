@@ -1,0 +1,58 @@
+{
+  "type": "origins:multiple",
+  "normal": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:change_resource",
+      "resource": "advpack:transformation_resources/energy_resource",
+      "change": 5
+    },
+    "interval": 40,
+    "condition": {
+      "type": "origins:resource",
+      "resource": "advpack:energy_regeneration/control_resource",
+      "comparison": "==",
+      "compare_to": 0
+    }
+  },
+  "strong": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:change_resource",
+      "resource": "advpack:transformation_resources/energy_resource",
+      "change": 10
+    },
+    "interval": 40,
+    "condition": {
+      "type": "origins:resource",
+      "resource": "advpack:energy_regeneration/control_resource",
+      "comparison": "==",
+      "compare_to": 1
+    }
+  },
+  "very_strong": {
+
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:change_resource",
+      "resource": "advpack:transformation_resources/energy_resource",
+      "change": 20
+    },
+    "interval": 40,
+    "condition": {
+      "type": "origins:resource",
+      "resource": "advpack:energy_regeneration/control_resource",
+      "comparison": "==",
+      "compare_to": 2
+    }
+  },
+  "condition": {
+    "type": "origins:resource",
+    "resource": "advpack:transformation_resources/energy_resource",
+    "comparison": "==",
+    "compare_to": 1
+  },
+
+  "name": "Energy Regeneration",
+  "description": "SHOULD BE HIDDEN pls report"
+}

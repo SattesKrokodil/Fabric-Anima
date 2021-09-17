@@ -9,7 +9,11 @@
 		"origins-classes:more_animal_loot",
 		"advpack:transformation_powers/transform_back_on_change",
 		"advpack:transformation_resources/cod",
-		"advpack:sounds/cod_gets_damaged"
+		"advpack:sounds/cod_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
 	],
 	"icon": "minecraft:cod",
 	"order": 0,

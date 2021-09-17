@@ -1,0 +1,139 @@
+
+{
+  "type": "origins:multiple",
+  "name": "Hunter",
+  "description": "When moving through cobweb you become invisible. (doesn't work while transformed currently)",
+  "resource": {
+    "type": "origins:resource",
+    "min": 0,
+    "max": 10,
+    "hud_render": {
+      "should_render": false
+    }
+  },
+  "change": {
+    "type": "origins:action_over_time",
+    "interval": 2,
+    "entity_action": {
+      "type": "origins:if_else",
+      "condition": {
+        "type": "origins:in_block_anywhere",
+        "block_condition": {
+          "type": "origins:block",
+          "block": "minecraft:cobweb"
+        }
+      },
+      "if_action": {
+        "type": "origins:change_resource",
+        "resource": "*:*_resource",
+        "change": 1
+      },
+      "else_action": {
+        "type": "origins:change_resource",
+        "resource": "*:*_resource",
+        "change": -2
+      }
+    }
+  },
+  "invisibility": {
+    "type": "origins:invisibility",
+    "render_armor": false,
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 10
+    }
+  },
+  "gradual_change_1": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 1
+    },
+    "alpha": 0.9
+  },
+  "gradual_change_2": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 2
+    },
+    "alpha": 0.8
+  },
+  "gradual_change_3": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 3
+    },
+    "alpha": 0.7
+  },
+  "gradual_change_4": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 4
+    },
+    "alpha": 0.6
+  },
+  "gradual_change_5": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 5
+    },
+    "alpha": 0.5
+  },
+  "gradual_change_6": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 6
+    },
+    "alpha": 0.4
+  },
+  "gradual_change_7": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 7
+    },
+    "alpha": 0.3
+  },
+  "gradual_change_8": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 8
+    },
+    "alpha": 0.2
+  },
+  "gradual_change_9": {
+    "type": "origins:model_color",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "*:*_resource",
+      "comparison": "==",
+      "compare_to": 9
+    },
+    "alpha": 0.1
+  }
+}
+

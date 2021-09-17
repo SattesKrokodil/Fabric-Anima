@@ -2,7 +2,7 @@
 	"powers": [
 		"advpack:transformation_powers/transform_spider",
 		"origins:carnivore",
-		"origins-classes:better_enchanting",
+		"advpack:spider_invisible_in_cobweb",
 		"origins-classes:efficient_repairs",
 		"origins-classes:tamed_animal_boost",
 		"origins-classes:tamed_potion_diffusal",
@@ -11,7 +11,11 @@
 		"origins:master_of_webs",
 		"advpack:transformation_powers/transform_back_on_change",
 		"advpack:transformation_resources/spider",
-		"advpack:sounds/spider_gets_damaged"
+		"advpack:sounds/spider_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
 
 	],
 	"icon": "mcda:spider_armor_helmet",

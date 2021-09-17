@@ -3,20 +3,17 @@
 	"powers": [
 
 		"advpack:transformation_powers/transform_bee",
-
 		"origins-classes:better_bone_meal",
-
 		"origins-classes:more_crop_drops",
-
 		"origins:more_exhaustion",
-
 		"origins:water_vulnerability",
-
 		"advpack:transformation_powers/transform_back_on_change",
-
 		"advpack:transformation_resources/bee",
-
-		"advpack:sounds/bee_gets_damaged"
+		"advpack:sounds/bee_gets_damaged",
+		"advpack:transformation_resources/is_transformed",
+		"advpack:transformation_resources/energy_resource",
+		"advpack:energy_regeneration/control_resource",
+		"advpack:energy_regeneration/strength"
 
 	],
 

@@ -1,9 +1,25 @@
 {
   "type": "origins:action_on_callback",
   "entity_action_removed": {
-    "type": "origins:execute_command",
-    "command": "/identity unequip @p",
-    "permission_level": 4
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:execute_command",
+        "command": "/identity unequip @p",
+        "permission_level": 4
+    },
+      {
+        "type": "origins:change_resource",
+        "resource": "advpack:transformation_resources/is_transformed",
+        "change": -1
+      },
+      {
+        "type": "origins:change_resource",
+        "resource": "advpack:transformation_resources/energy_resource",
+        "change": -1
+      }
+    ]
+
   },
   "execute_chosen_when_orb": true,
   "hidden": true
