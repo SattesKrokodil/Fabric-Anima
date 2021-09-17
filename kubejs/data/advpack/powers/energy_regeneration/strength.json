@@ -48,7 +48,7 @@
   },
   "condition": {
     "type": "origins:resource",
-    "resource": "advpack:transformation_resources/energy_resource",
+    "resource": "advpack:transformation_resources/is_transformed",
     "comparison": "==",
     "compare_to": 1
   },

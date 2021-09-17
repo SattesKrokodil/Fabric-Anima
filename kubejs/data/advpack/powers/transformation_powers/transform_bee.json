@@ -91,11 +91,6 @@
           "type": "origins:change_resource",
           "resource": "advpack:transformation_resources/is_transformed",
           "change": -1
-        },
-        {
-          "type": "origins:change_resource",
-          "resource": "advpack:transformation_resources/energy_resource",
-          "change": -1
         }
       ]
     }
