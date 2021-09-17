@@ -16,7 +16,7 @@
       {
         "type": "origins:change_resource",
         "resource": "advpack:transformation_resources/energy_resource",
-        "change": -1
+        "change": -100
       }
     ]
 
