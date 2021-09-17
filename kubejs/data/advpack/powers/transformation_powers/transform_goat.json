@@ -30,17 +30,22 @@
       },
         {
           "type": "origins:execute_command",
-          "command": "/playsound minecraft:entity.bat.takeoff player @p ~ ~ ~ 80 0.7",
+          "command": "/playsound minecraft:entity.goat.ambient player @p ~ ~ ~ 100 1",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:smoke ~ ~ ~ 0.2 1 0.2 0.1 30 force",
+          "command": "/particle betterend:snowflake ~ ~-0.5 ~ 1 1 1 0.1 15 force",
           "permission_level": 4
         },
         {
           "type": "origins:execute_command",
-          "command": "/particle minecraft:poof ~ ~ ~ 0.1 1 0.1 0.1 3 force",
+          "command": "/particle minecraft:firework ~ ~-0.5 ~ 0.2 0.5 0.2 0.1 10 force",
+          "permission_level": 4
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "/particle minecraft:poof ~ ~-0.5 ~ 0.1 0.5 0.1 0.1 3 force",
           "permission_level": 4
         },
         {
@@ -84,7 +89,7 @@
   },
   "cooldown": 60,
 
-    "hud_render": {
+  "hud_render": {
     "should_render": true,
     "sprite_location": "origins:textures/gui/community/huang/resource_bar_02.png",
     "bar_index": 1

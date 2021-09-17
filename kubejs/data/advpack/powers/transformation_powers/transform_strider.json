@@ -30,7 +30,7 @@
       },
         {
           "type": "origins:execute_command",
-          "command": "/playsound minecraft:entity.bat.takeoff player @p ~ ~ ~ 80 0.7",
+          "command": "/playsound minecraft:entity.strider.happy player @p ~ ~ ~ 100 1",
           "permission_level": 4
         },
         {
