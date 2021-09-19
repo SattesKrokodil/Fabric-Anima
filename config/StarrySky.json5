@@ -9,7 +9,7 @@
 	   The block for building the portal to Starry Sky
 	   Default: PACKED_ICE
 	*/
-	"starrySkyPortalFrameBlock": "PACKED_ICE",
+	"starrySkyPortalFrameBlock": "gobber2:gobber2_block_end",
 	/* 
 	   The height of clouds in the Starry Sky dimension.
 	   Default: 270

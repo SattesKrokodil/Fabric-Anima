@@ -1,7 +1,7 @@
 Config MOB properties here
 
 Important! Do not modify the value of the config version in this file or the mod may overwrite custom settings.
-[Global] Config Version: 2
+[Global] Config Version: 3
 
 SpawnDebug:
     Helpful when trying out different spawn configs or for testing adjustments to spawn weights.
@@ -50,6 +50,7 @@ Loudness:
 
 -------------------------------------------------------------
 
+[Global] Print Biomes: false;
 [Global] Command Item: stick;
 
 CourierBird ShouldSpawn: true
@@ -73,7 +74,7 @@ CourierBird HostileToMobs: none
 CourierBird BattleWithOwner: true
 CourierBird Diet: herbivore
 CourierBird TamingItems:  sweet_berries;
-CourierBird TamingChance:  10
+CourierBird TamingChance:  1
 CourierBird BreedingItems: sweet_berries; melon_slice;
 CourierBird Loudness: 100
 
@@ -98,7 +99,7 @@ DireWolf HostileToMobs: minecraft:sheep; minecraft:skeleton;
 DireWolf BattleWithOwner: true
 DireWolf Diet: carnivore
 DireWolf TamingItems:  bone;
-DireWolf TamingChance:  10
+DireWolf TamingChance:  1
 DireWolf BreedingItems:  rabbit; chicken; mutton; beef; porkchop;
 DireWolf Loudness: 100
 
@@ -123,7 +124,7 @@ Dragon HostileToMobs: none
 Dragon BattleWithOwner: true
 Dragon Diet: carnivore
 Dragon TamingItems:  gold_ingot; diamond; emerald;
-Dragon TamingChance:  5
+Dragon TamingChance:  1
 Dragon BreedingItems: golden_carrot; golden_apple; glistering_melon_slice;
 Dragon Loudness: 100
 
@@ -135,7 +136,7 @@ Griffon SpawnYFloor: 100
 Griffon SpawnBlocks: All
 Griffon SpawnWeight: 10
 Griffon SpawnRandomChance: 70
-Griffon SpawnType: SpawnDebug: false
+Griffon SpawnType: overworld
 Griffon MinSpawnGroupSize: 1
 Griffon MaxSpawnGroupSize: 1
 Griffon InventorySize: 4
@@ -148,7 +149,7 @@ Griffon HostileToMobs: minecraft:sheep; minecraft:rabbit;
 Griffon BattleWithOwner: true
 Griffon Diet: carnivore
 Griffon TamingItems:  rabbit; mutton;
-Griffon TamingChance:  10
+Griffon TamingChance:  1
 Griffon BreedingItems: rabbit; mutton;
 Griffon Loudness: 100
 
@@ -173,7 +174,7 @@ GeckotoaLizard HostileToMobs: none
 GeckotoaLizard BattleWithOwner: false
 GeckotoaLizard Diet: omnivore
 GeckotoaLizard TamingItems:  melon; pumpkin; hay_block;
-GeckotoaLizard TamingChance:  10
+GeckotoaLizard TamingChance:  1
 GeckotoaLizard BreedingItems: melon; pumpkin; hay_block;
 GeckotoaLizard Loudness: 100
 
@@ -183,22 +184,23 @@ Moth SpawnBiomes: Dark Forest Hills; Dark Forest;
 Moth SpawnYCeiling: 50000
 Moth SpawnYFloor: -50000
 Moth SpawnBlocks: All
-Moth SpawnWeight: 10
-Moth SpawnRandomChance: 70
-Moth SpawnType: SpawnDebug: false
+Moth SeekBlocks: minecraft:torch; minecraft:redstone_torch; minecraft:soul_torch; 
+Moth SpawnWeight: 3
+Moth SpawnRandomChance: 10
+Moth SpawnType: overworld
 Moth MinSpawnGroupSize: 1
 Moth MaxSpawnGroupSize: 1
 Moth InventorySize: 2
 Moth Attack: 2
-Moth Speed: 0.44999998807907104
+Moth Speed: 0.24999998807907104
 Moth Health: 10
-Moth FleeFromPlayer: false
+Moth FleeFromPlayer: true
 Moth PlayerHostile: false
 Moth HostileToMobs: none
 Moth BattleWithOwner: false
 Moth Diet: herbivore
 Moth TamingItems: dandelion; poppy; blue_orchid; allium; azure_bluet; red_tulip; orange_tulip; white_tulip; pink_tulip; oxeye_daisy; cornflower; lily_of_the_valley; lilac; rose_bush; peony;
-Moth TamingChance:  20
+Moth TamingChance:  1
 Moth BreedingItems: sugar; melon_slice; glistering_melon_slice;
 Moth Loudness: 100
 
@@ -223,7 +225,7 @@ NetherBat HostileToMobs: none
 NetherBat BattleWithOwner: true
 NetherBat Diet: omnivore
 NetherBat TamingItems:  porkchop;
-NetherBat TamingChance:  10
+NetherBat TamingChance:  1
 NetherBat BreedingItems: porkchop; apple; rotten_flesh;
 NetherBat Loudness: 100
 
@@ -235,7 +237,7 @@ Nudibranch SpawnYFloor: -50000
 Nudibranch SpawnBlocks: minecraft:brain_coral_block; minecraft:bubble_coral_block; minecraft:fire_coral_block; minecraft:horn_coral_block; minecraft:tube_coral_block;
 Nudibranch SpawnWeight: 20
 Nudibranch SpawnRandomChance: 100
-Nudibranch SpawnType: SpawnDebug: false
+Nudibranch SpawnType: overworld
 Nudibranch MinSpawnGroupSize: 2
 Nudibranch MaxSpawnGroupSize: 4
 Nudibranch InventorySize: 3
@@ -248,7 +250,7 @@ Nudibranch HostileToMobs: none
 Nudibranch BattleWithOwner: false
 Nudibranch Diet: herbivore
 Nudibranch TamingItems: seagrass;
-Nudibranch TamingChance:  10
+Nudibranch TamingChance:  1
 Nudibranch BreedingItems: kelp;
 Nudibranch Loudness: 100
 
@@ -260,7 +262,7 @@ RidingLizard SpawnYFloor: -50000
 RidingLizard SpawnBlocks: All
 RidingLizard SpawnWeight: 1
 RidingLizard SpawnRandomChance: 10
-RidingLizard SpawnType: SpawnDebug: false
+RidingLizard SpawnType: overworld
 RidingLizard MinSpawnGroupSize: 2
 RidingLizard MaxSpawnGroupSize: 3
 RidingLizard InventorySize: 2
@@ -273,6 +275,6 @@ RidingLizard HostileToMobs: minecraft:rabbit; minecraft:chicken;
 RidingLizard BattleWithOwner: true
 RidingLizard Diet: carnivore
 RidingLizard TamingItems:  rabbit; chicken;
-RidingLizard TamingChance:  10
+RidingLizard TamingChance:  1
 RidingLizard BreedingItems: rabbit; chicken; pumpkin; rotten_flesh;
 RidingLizard Loudness: 100

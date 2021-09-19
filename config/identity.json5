@@ -65,5 +65,5 @@
   "forceChangeAlways": false,
   //If true, /identity commands will send feedback in the action bar.
   "logCommands": false,
-  "flySpeed": 0.0075
+  "flySpeed": 0.075
 }

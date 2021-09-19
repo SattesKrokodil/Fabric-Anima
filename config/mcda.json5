@@ -7,7 +7,7 @@
 		"DEATH_BARTER": true,
 		"DEFLECT": true,
 		"FIRE_FOCUS": true,
-		"FIRE_TRAIL": true,
+		"FIRE_TRAIL": false,
 		"FOOD_RESERVES": true,
 		"FRENZIED": true,
 		"HEAL_ALLIES": true,
@@ -17,7 +17,7 @@
 		"RECYCLER": true,
 		"SNOWBALL": true,
 		"SURPRISE_GIFT": true,
-		"SWIFTFOOTED": true
+		"SWIFTFOOTED": false
 	},
 	"enableArmorEffect": {
 		"FIRE_RESISTANCE": true,

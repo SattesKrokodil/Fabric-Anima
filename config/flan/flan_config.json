@@ -17,12 +17,7 @@
     "graves.marker"
   ],
   "blacklistedWorlds": [
-    "minecraft:the_nether",
-    "minecraft:the_end",
-    "mmorpg:dungeon",
-    "mmorpg:rift",
-    "simplevoidworld:void",
-    "world_of_exile:hell1"
+
   ],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",

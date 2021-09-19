@@ -27,6 +27,19 @@ events.listen('recipes', event => {
 
   })
 
+  event.remove({output: 'gobber2:gobber2_block_end'})
+  event.remove({output: 'charm_glowball'})
+  event.remove({output: 'betternether:cincinnasite_pickaxe_diamond'})
+
+  event.shaped(item.of('origins:orb_of_origin', 1), [
+    'ABA',
+    'AEA',
+    'GGG'
+    ], {
+    G: 'gobber2:gobber2_ingot_end',
+    B: 'minecraft:golden_carrot'
+    B: 'minecraft:golden_carrot'
+  })
 
   event.shaped(item.of('origins:orb_of_origin', 1), [
     'ABC',

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	  "gobber2:gobber2_paxel",
+	  "gobber2:gobber2_paxel_nether",
+	  "gobber2:gobber2_paxel_end",
+	  "gobber2:gobber2_paxel_stars"
+  ]
+}

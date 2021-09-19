@@ -443,7 +443,7 @@
     "granite_pedestal [default: true]": true,
     "quartz_pedestal [default: true]": true,
     "purpur_pedestal [default: true]": true,
-    "infusion_pedestal [default: true]": true,
+    "infusion_pedestal [default: true]": false,
     "aeternium_block [default: true]": true,
     "aeternium_block_to_ingot [default: true]": true,
     "blue_vine_seed_dye [default: true]": true,

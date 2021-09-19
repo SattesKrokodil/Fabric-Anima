@@ -13,7 +13,7 @@
 #Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
 "AzaleaWood Enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
-"BatBuckets Enabled" = true
+"BatBuckets Enabled" = false
 #Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
 "BeaconsHealMobs Enabled" = true
 #Beekeepers are villagers that trade beekeeping items. Their job site is the beehive.
@@ -65,7 +65,7 @@
 #Ender bundles allow transfer of items to and from your ender chest.
 "EnderBundles Enabled" = true
 #Endermites drop endermite powder that can be used to locate an End City.
-"EndermitePowder Enabled" = true
+"EndermitePowder Enabled" = false
 #Adds crimson and warped wood boats.
 "ExtraBoats Enabled" = true
 #Adds copper and netherite nuggets for lantern and chain recipes.
@@ -79,7 +79,7 @@
 #Potion effect particles are much less obtrusive by default and can optionally be entirely hidden.
 "GentlePotionParticles Enabled" = true
 #Glowballs can be thrown to produce a light source where they impact.
-"Glowballs Enabled" = true
+"Glowballs Enabled" = false
 #Horse armor returns a single ingot or gem when used on the grindstone.
 "GrindableHorseArmor Enabled" = true
 #Right-click with a hoe to quickly harvest and replant a fully-grown crop.
@@ -87,11 +87,11 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements Enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying Enabled" = true
+"InventoryTidying Enabled" = false
 #A functional block that speeds up cooking of clay, glass, bricks and terracotta.
 "Kilns Enabled" = true
 #Drop an item onto a lava bucket item to destroy it.
-"LavaBucketDestroysItems Enabled" = true
+"LavaBucketDestroysItems Enabled" = false
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
 "Lumberjacks Enabled" = true
 #Show maps in tooltips.
@@ -124,7 +124,7 @@
 #Shows particles at ground level to help locate ores below you.
 "PotionOfSpelunking Enabled" = true
 #A tool that rotates blocks. When held in offhand it locks block orientation when placing.
-"Quadrants Enabled" = true
+"Quadrants Enabled" = false
 #Raid horns are sometimes dropped from raid leaders and can be used to call off or start raids.
 "RaidHorns Enabled" = true
 #A lantern that emits light when a redstone signal is received.
@@ -136,7 +136,7 @@
 #Removes the potion enchantment glint so you can see what the potion color is.
 "RemovePotionGlint Enabled" = true
 #Removes the dark outer overlay when zooming in with the spyglass, giving you the full view.
-"RemoveSpyglassScope Enabled" = true
+"RemoveSpyglassScope Enabled" = false
 #Shows the contents of a Shulker Box on hover-over.
 "ShulkerBoxTooltips Enabled" = true
 #Increases snow layers in cold biomes during thunderstorms.
@@ -156,7 +156,7 @@
 #Tamed animals do not take direct damage from players.
 "TamedAnimalsNoDamage Enabled" = true
 #Items will be held in the Totem of Preserving if you die.
-"TotemOfPreserving Enabled" = true
+"TotemOfPreserving Enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
