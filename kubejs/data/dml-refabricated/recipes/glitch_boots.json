@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "gobber2:gobber2_boots_end"
+  },
+  "addition": {
+    "item": "dml-refabricated:glitch_ingot"
+  },
+  "result": {
+    "item": "dml-refabricated:glitch_boots"
+  }
+}
