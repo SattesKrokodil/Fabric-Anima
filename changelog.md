@@ -18,6 +18,7 @@
 ADDED:
 - (testing) Atlantis, underwater dimension because turtles are crybabies :P
 - ValleyCraft 1.2
+- Altlore (tooltips mod)
 
 UPDATED:
 - Lootcrates 1.0.4
