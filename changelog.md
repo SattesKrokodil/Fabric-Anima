@@ -1,4 +1,4 @@
-## [2.0.1] - Few Fixes - UNRELEASED
+## [2.0.1] - Few Fixes
 ### General Updates
 - lots of new awesome building blocks
 - many new foods and utility items (ropes, bridges, ...)
