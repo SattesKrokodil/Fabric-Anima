@@ -1,98 +1,30 @@
-## UNRELEASED
+## [2.0.1] - Few Fixes - UNRELEASED
 ### General Updates
-
+- lots of new awesome building blocks
+- many new foods and utility items (ropes, bridges, ...)
+- new lootcrates version will make it possible to config rarity/loottables of generated chests with the next update
+- new Dimension, Atlantis
 ### Fixes
+- glitch armor uses gobber end ore (packname: void ore) now
+- disabled gobber dragon armor (for now, will see)
+- fixed "invalid player data" on SP rejoin
+- added lootcrates to dynoblacklist
+- fixed orb of origins recipe
+- added a way to enter the starry sky dimensions (REI: "Infused Portal Block")
+- fixed fly speed
 
 ### Mods
+
 ADDED:
-- item filters
-- default settings
-- toms storage
-- taterzens
-- ftb GUI lib
-- wthit (hwyla replacement)
-- somnus (lib)
-- pehkui (lib)
-- impersonate
-- bewitchment
-- ftb quests
-- wildfire female gender mod
-- ratsmischief
+- (testing) Atlantis, underwater dimension because turtles are crybabies :P
+- ValleyCraft 1.2
 
 UPDATED:
-- betterend
-- dynocaps
-- betterMineshafts
-- betterCaves
-- YungsAPI
-- Transfer Chest
-- Supernatural Crops
-- starryskies
-- slight GUI modification
-- REI
-- Repurposed Structures
-- Polymorph
-- Phosphor
-- Patchouli
-- Origins Classes
-- Origins
-- BYG
-- Modmenu
-- MCSA
-- MCDW
-- MCDS
-- Mambience
-- Lootbeams
-- LimitedSpawners
-- Libblockattributes
-- lambdynlights
-- kubeJS
-- jumploader
-- inmis
-- identidy
-- herdspanic
-- go-fish
-- geckolib
-- flan
-- fallingtrees
-- kotlin
-- fabric API
-- environmentZ
-- desolation
-- dehydration
-- curios
-- croptosis
-- croptopia
-- blur
-- compactstatuseffects
-- cloth-config
-- cloth-api
-- clear skies
-- clean view
-- cinderscapes
-- charmonium
-- charm
-- cavebiomes
-- cca
-- better end
-- blockus
-- better enchanted books
-- beenfo
-- automated crafting
-- autoconfig
-- artifacts
-- architectury
-- MOTOD
-- expandedstorage
+- Lootcrates 1.0.4
 
 REMOVED:
+Villagerfix - it causes a crash because configs are missing on our side, will be re-added next update
 
-- craftingpad (included in charm)
-- dualriders (nobody used it)
-- fastbench (causes issues with some origin powers)
-- fastfurnace
-- HWYLA ( replaced )
-- 
 
 
 
