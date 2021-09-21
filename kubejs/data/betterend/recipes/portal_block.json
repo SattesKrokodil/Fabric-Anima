@@ -1,0 +1,21 @@
+{
+  "type": "betterend:infusion",
+  "input": {
+    "item": "origins:orb_of_origin"
+  },
+  "result": {
+    "item": "gobber2:gobber2_block_end",
+    "count": 1
+  },
+  "time": 300,
+  "catalysts": {
+    "north": "gobber2:gobber2_foo_end",
+    "south": "gobber2:gobber2_foo_end",
+    "east": "gobber2:gobber2_foo_end",
+    "west": "gobber2:gobber2_foo_end",
+    "north_west": "gobber2:gobber2_foo_end",
+    "south_west": "gobber2:gobber2_foo_end",
+    "south_east": "gobber2:gobber2_foo_end",
+    "north_east": "gobber2:gobber2_foo_end"
+  }
+}

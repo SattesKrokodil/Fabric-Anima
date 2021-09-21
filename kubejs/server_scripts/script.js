@@ -28,10 +28,9 @@ events.listen('recipes', event => {
   })
 
   event.remove({mod: 'waystones'})
-
-  event.remove({output: 'gobber2:gobber2_block_end'})
   event.remove({output: 'charm_glowball'})
   event.remove({output: 'betternether:cincinnasite_pickaxe_diamond'})
+
 
   event.shaped(item.of('betterend:infusion_pedestal', 1), [
     'ABA',
@@ -39,8 +38,9 @@ events.listen('recipes', event => {
     'GGG'
     ], {
     G: 'gobber2:gobber2_ingot_end',
-    B: 'heartbond:ender_heart',
-    B: 'mcda:upgrade_core_glut'
+    E: 'heartbond:ender_heart',
+    B: 'mcda:upgrade_core_glut',
+    A: 'minecraft:air'
   })
 
   event.shaped(item.of('origins:orb_of_origin', 1), [
@@ -49,15 +49,16 @@ events.listen('recipes', event => {
     'GHI'
     ], {
     A: 'mcdw:item_bee_stinger',
-    B: 'minecraft:golden_carrot',
-    C: 'minecraft:cod_bucket',
-    D: 'minecraft:seagrass',
-    E: 'minecraft:diamond',
-    F: 'minecraft:ender_eye',
-    G: 'minecraft:feather',
-    H: 'blockus:rotten_flesh_block',
-    I: 'minecraft:slime_ball'
+    B: 'minecraft:scute',
+    C: 'alaskanativecraft:dry_fish',
+    D: 'mcda:fox_pelt',
+    E: 'gobber2:gobber2_goo_nether',
+    F: 'minecraft:rabbit_foot',
+    G: 'untitledduckmod:duck_feather',
+    H: 'mcda:goat_pelt',
+    I: 'alaskanativecraft:antler'
   })
+
 
 
 })
