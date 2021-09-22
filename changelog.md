@@ -1,3 +1,24 @@
+## [2.0.2] - More Fixes
+### General Updates
+- most enchants should show what they do now, if not please post in discord and I will add a description
+
+### Fixes
+- expanded storage not working with toms storage system
+- fixed some food giving absurd amounts of heal/saturation
+
+### Mods
+
+ADDED:
+- Enchantment Descriptions
+
+UPDATED:
+- Lootcrates 2.0.0
+- Expanded Storage 7.1.2
+- Valleycraft 1.2.1
+
+REMOVED:
+- Entity Banners, don't fit Anima
+
 ## [2.0.1] - Few Fixes
 ### General Updates
 - lots of new awesome building blocks
