@@ -1,0 +1,41 @@
+[
+	{
+		"loot_table": "",
+		"entries": [
+			{
+				"once_per_player": true,
+				"replenish_time_ticks": 1,
+				"lock": "none",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"loot_table": "minecraft:example_loot_table",
+		"entries": [
+			{
+				"crate_rarity": "common",
+				"once_per_player": true,
+				"replenish_time_ticks": 1,
+				"lock": "require_key",
+				"weight": 3
+			},
+			{
+				"crate_rarity": "uncommon",
+				"loot_table": "minecraft:example_loot_table_uncommon",
+				"once_per_player": true,
+				"replenish_time_ticks": 1,
+				"lock": "consume_key",
+				"weight": 2
+			},
+			{
+				"crate_rarity": "rare",
+				"loot_table": "minecraft:example_loot_table_rare",
+				"once_per_player": true,
+				"replenish_time_ticks": 1,
+				"lock": "consume_key",
+				"weight": 1
+			}
+		]
+	}
+]

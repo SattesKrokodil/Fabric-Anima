@@ -6,7 +6,7 @@
 
 
 		"type": "origins:add_velocity",
-		"x": 1,
+		"y": 1,
 		"set": true
 
 	},

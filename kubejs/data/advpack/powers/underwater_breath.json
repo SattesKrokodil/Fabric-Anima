@@ -1,0 +1,10 @@
+{
+  "type": "origins:gain_air",
+  "value": 20,
+  "condition": {
+    "type": "origins:resource",
+    "resource": "advpack:transformation_resources/is_transformed",
+    "comparison": "==",
+    "compare_to": 1
+  }
+}

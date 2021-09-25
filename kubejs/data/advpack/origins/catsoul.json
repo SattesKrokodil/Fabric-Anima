@@ -17,7 +17,9 @@
 		"advpack:transformation_resources/is_transformed",
 		"advpack:transformation_resources/energy_resource",
 		"advpack:energy_regeneration/control_resource",
-		"advpack:energy_regeneration/strength"
+		"advpack:energy_regeneration/strength",
+		"advpack:cat_invis_while_in_grass",
+		"advpack:actives/spiritdash"
 
 	],
 
