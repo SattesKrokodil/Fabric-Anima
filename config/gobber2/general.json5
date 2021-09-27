@@ -187,9 +187,10 @@
 	   Gobber Tool Material Stats
 	   ******************************
 	*/
-	"gobberDurability": 3800,
-	"gobberMiningSpeed": 9.0,
-	"gobberAttackDamage": 9.0,
+	"gobberDurability": 3000,
+	"gobberMiningSpeed": 7.0,
+	"gobberAttackDamage": 3.0,
+	"gobberSwordAttackSpeed": 1.3,
 	"gobberMiningLevel": 4,
 	"gobberEnchantability": 20,
 	/*
@@ -199,9 +200,10 @@
 	   Gobber Nether Tool Material Stats
 	   ******************************
 	*/
-	"gobberNetherDurability": 5200,
-	"gobberNetherMiningSpeed": 12.0,
-	"gobberNetherAttackDamage": 9.0,
+	"gobberNetherDurability": 4500,
+	"gobberNetherMiningSpeed": 10.0,
+	"gobberNetherAttackDamage": 4.0,
+	"gobberNetherSwordAttackSpeed": 1.500000047683716,
 	"gobberNetherMiningLevel": 5,
 	"gobberNetherEnchantability": 25,
 	/*
@@ -213,8 +215,9 @@
 	*/
 	"unbreakableEndTools": true,
 	"gobberEndDurability": 8000,
-	"gobberEndMiningSpeed": 14.0,
-	"gobberEndAttackDamage": 9.0,
+	"gobberEndMiningSpeed": 12.0,
+	"gobberEndSwordAttackSpeed": 1.8000000953674316,
+	"gobberEndAttackDamage": 5.0,
 	"gobberEndMiningLevel": 5,
 	"gobberEndEnchantability": 30,
 	/*
@@ -239,9 +242,9 @@
 	   Gobber Armor Material Stats
 	   ******************************
 	*/
-	"gobberDurabilityMultiplier": 71,
+	"gobberDurabilityMultiplier": 60,
 	"gobberArmorEnchantability": 25,
-	"gobberToughness": 2.5,
+	"gobberToughness": 1,
 	"gobberKnockbackResistance": 0.10000000149011612,
 	/*
 
@@ -250,9 +253,9 @@
 	   Gobber Nether Armor Material Stats
 	   ******************************
 	*/
-	"gobberNetherDurabilityMultiplier": 83,
+	"gobberNetherDurabilityMultiplier": 70,
 	"gobberNetherArmorEnchantability": 30,
-	"gobberNetherToughness": 2.75,
+	"gobberNetherToughness": 1.5,
 	"gobberNetherKnockbackResistance": 0.10000000149011612,
 	/*
 
@@ -262,10 +265,10 @@
 	   ******************************
 	*/
 	"unbreakableEndArmor": true,
-	"gobberEndDurabilityMultiplier": 100,
+	"gobberEndDurabilityMultiplier": 80,
 	"gobberEndArmorEnchantability": 30,
-	"gobberEndToughness": 3.0,
-	"gobberEndKnockbackResistance": 0.30000001192092896,
+	"gobberEndToughness": 2.0,
+	"gobberEndKnockbackResistance": 0.20000001192092896,
 	/*
 
 

@@ -1,3 +1,42 @@
+## [2.0.3] - Changelog
+### Information
+- All soul descriptions ("Pick your animal soul screen/origins") will get a rework once the new origins update is there. (scrollbar, hover-over badges, ...) it will stay chaotic till then, I don't want to do double work if it's so close)
+
+### General Stuff
+
+- expanded storage should work with claims now
+- dynocaps should work now
+- added "spiritdash" ability to all souls until each got it's own active, default key is "R" -> change it in keybinds "Ternary Active Key"
+- fixed cat invisibility while in grass
+- fixed goat bump passive
+- nerfed gobber stuff (starlight, crimson, void weapons/armors/tools)
+- added some missing enchantment descriptions
+
+### Mods
+
+ADDED:
+- Tooltip fix (enchantment descriptions should be readable now)
+- Statement (lib/dep)
+- Vanilla Degus (new critter!)
+- Towlette (more things are waterlogable)
+- Container Lib (dep for storage mod)
+- Amecs (introduces several modifier keys (alt, control and shift) for now to give you a larger variety to chose from when making keybindings.)
+- added Gravestones to the official server
+
+UPDATED:
+- Expanded Storage 7.2.1
+- Starry Skies 1.2.0
+- Toms storage 1.1.17
+- mcdw 3.5.1
+
+REMOVED:
+- Atlantis (maybe re-add later if things get fixed)
+- Waystones (does not fit anima)
+- Simulacrum (unusable)
+- Chipped (should increase pack loading speed significantly)
+
+
+
 ## [2.0.2] - More Fixes
 ### General Updates
 - most enchants should show what they do now, if not please post in discord and I will add a description

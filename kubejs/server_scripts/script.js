@@ -30,7 +30,7 @@ events.listen('recipes', event => {
   event.remove({mod: 'waystones'})
   event.remove({output: 'charm_glowball'})
   event.remove({output: 'betternether:cincinnasite_pickaxe_diamond'})
-
+  event.remove({output: 'betterend:infusion_pedestal'})
 
   event.shaped(item.of('betterend:infusion_pedestal', 1), [
     'ABA',

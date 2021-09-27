@@ -14,8 +14,7 @@
 		"advpack:transformation_resources/energy_resource",
 		"advpack:energy_regeneration/control_resource",
 		"advpack:energy_regeneration/strength",
-		"advpack:actives/spiritdash",
-		"advpack:underwater_breath"
+		"advpack:actives/spiritdash"
 	],
 	"icon": "minecraft:seagrass",
 	"order": 1,
