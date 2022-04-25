@@ -1,3 +1,7 @@
+## [3.0.0] - Update to 1.18.1
+### Modlist revamp
+- Had to remove some, added some - but with "betteranimalsplus" and their millions of animals, and the wildlife mod Anima is finally what it always wanted to be. 
+
 ## [2.0.3] - Changelog
 ### Information
 - All soul descriptions ("Pick your animal soul screen/origins") will get a rework once the new origins update is there. (scrollbar, hover-over badges, ...) it will stay chaotic till then, I don't want to do double work if it's so close)
