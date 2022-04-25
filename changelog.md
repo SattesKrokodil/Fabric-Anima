@@ -1,3 +1,11 @@
+## [3.0.1] - small additions
+### Mods
+ADDED:
+- Alloy Forgery
+- Mythic Metals
+- Terralith
+- Advanced Chat Log, HUD and Core
+
 ## [3.0.0] - Update to 1.18.1
 ### Modlist revamp
 - Had to remove some, added some - but with "betteranimalsplus" and their millions of animals, and the wildlife mod Anima is finally what it always wanted to be. 
